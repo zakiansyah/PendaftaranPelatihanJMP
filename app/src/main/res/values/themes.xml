@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PendaftaranPelatihanJMP" parent="Theme.Material3.DayNight">
+        <!-- Primary Brand Color -->
+        <item name="colorPrimary">@color/grey_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary Brand Color -->
+        <item name="colorSecondary">@color/orange_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="ButtonGeneral">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+
+    </style>
+
+    <style name="ButtonGeneral.secondaryVariant">
+        <item name="backgroundTint">@color/orange_dark</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Theme.PendaftaranPelatihanJMP" parent="Base.Theme.PendaftaranPelatihanJMP" />
+</resources>

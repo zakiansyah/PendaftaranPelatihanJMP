@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pendaftaran Pelatihan JMP</string>
+    <string name="description">Pelatihan Junior Mobile Programmer (JMP) merupakan pelatihan pembuatan aplikasi mobile android bagi pemula. Pelatihan ini gratis, semua biaya ditanggung kominfo. Selesai pelatihan peserta akan melakukan ujian sertifikasi dari LSP untuk mendapatkan sertifikat kompetensi dari BNSP.</string>
+    <string name="dummy_title">Pelatihan Junior Mobile Programmer</string>
+    <string name="dummy_value">Free!</string>
+    <string name="photo">3 Photos</string>
+    <string name="spec_laptop">Spesifikasi \nLaptop</string>
+    <string name="join">Daftar</string>
+    <string name="dts">Digital Talent Scholarship</string>
+    <string name="administrasi">Administrasi</string>
+    <string name="seleksi">Seleksi</string>
+    <string name="content_age">Maksimal 29 th saat mendaftar</string>
+    <string name="age">Umur</string>
+    <string name="content_status">Tidak/Belum Mendapat Pekerjaan</string>
+    <string name="status">Status</string>
+    <string name="kewarganegaraan">Kewarganegaraan</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="content_spec">CPU Minimal Core i7 Generasi 10 \nRAM Minimal 16 Gb \nSSD Kapasitas 512 Gb \nUkuran Layar Minimal 1280x720 Pixel</string>
+</resources>
